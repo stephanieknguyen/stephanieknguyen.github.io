@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
+I'm a Seattle native that has been spending the last few years in Philadephia, completing medical school and starting surgical internship this July. My next adventure after that is going back home to Seattle to complete my residency in interventional radiology at the University of Washington! 
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
+This blog is a way for me to share some of my thoughts about the process of medical education/training, my experiences as a newly-minted doctor, and the constant struggle of work/life balance. 
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+In my spare time, I enjoy hiking, lounging on sandy beaches, cooking, and hanging out with Michael (my wonderful fiance), Abita (golden retriever), and Diana (maine coon). 
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+
