@@ -4,7 +4,7 @@ title:  "Mentorship is Priceless"
 date:   2019-04-12 18:08:45
 categories: mentorship, female, feminism, wellness, achievement
 tags: featured
-image: /assets/article_images/2019-04-12-mentorship-is-priceless/joshua-ness-225844.JPG
+image: /assets/article_images/2019-04-12-mentorship-is-priceless/joshua-ness-225844-unsplash.JPG
 ---
 
 March 15, 2019 was the day I found out that my dream of becoming an interventional radiologist was now a reality. To give a little background, Match Day is the third Friday of March that occurs annually. It is the day that senior medical students from all over the United States find out where they will be continuing their medical training in their respective fields. This comes after many tedious and stressful months of interviewing at various programs and submitting ranking lists. By participating in “the Match,” applicants are contractually obligated to attend the programs to which they match. It is a bizarre process. In any case, Match Day is when fates are revealed. Unfortunately, not everyone get a “match” since there are more applicants than available positions and some specialities are more difficult to match in than others.
