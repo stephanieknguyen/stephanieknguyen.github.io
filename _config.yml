@@ -41,7 +41,7 @@ social:
     share_title: ?text=
     share_link: "&amp;url="
 
-- icon:	facebook
+  - icon:	facebook
     url:	https://facebook.com/stephaniekimberlynguyen
     desc: Connect with me facebook
     share_url: https://www.facebook.com/sharer.php
@@ -49,11 +49,11 @@ social:
     share_link: "&amp;u="
 
   - icon:	instagram
-     url:	https://www.instagram.com/lafleurfascinant/
-     desc:	Follow me on insta
-     share_url:
-     share_title:
-     share_link:
+    url:	https://www.instagram.com/lafleurfascinant/
+    desc:	Follow me on insta
+    share_url:
+    share_title:
+    share_link:
 
   # - icon:	github
     # url:	https://github.com/stephanieknguyen
