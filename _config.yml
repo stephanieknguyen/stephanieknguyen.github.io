@@ -5,7 +5,7 @@ gems:
 
 # Site settings
 title: "Stephanie Sobrepera, MD"
-description: > # this means to ignore newlines until "email:"
+description: > ramblings about life, work, and everything in between
    A blog about life as a young physician
 
 email: nguyensk09@gmail.com
