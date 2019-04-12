@@ -6,7 +6,7 @@ gems:
 # Site settings
 title: "Stephanie Sobrepera"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   A blog about life as a young physician
 
 email: a-mail@mail.mail
 #blog logo
@@ -51,6 +51,13 @@ social:
   - icon:	instagram
     url:	https://www.instagram.com/lafleurfascinant/
     desc:	Follow me on insta
+    share_url:
+    share_title:
+    share_link:
+
+  - icon:	Medium
+    url:	https://www.medium.com/stephaniesobrepera
+    desc:	Read my stories on Medium
     share_url:
     share_title:
     share_link:
