@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to My Blog!"
 date:   2019-04-12 14:08:25
 categories: welcome
-tags: featured
+tags: regular
 image: /assets/article_images/2019-04-12-first-blogpost/jacob-culp-395062-unsplash.jpg
 image 2: /assets/article_images/2019-04-12-first-blogpost/jacob-culp-395062-unsplash_mobile.jpg
 ---
