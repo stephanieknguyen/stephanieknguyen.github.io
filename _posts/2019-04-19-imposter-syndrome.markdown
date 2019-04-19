@@ -1,6 +1,6 @@
 --- 
 layout: post
-title:  "Imposter Syndrome"
+title:  "Impostor Syndrome"
 date:   2019-04-19 16:32:45
 categories: imposter
 tags: featured
