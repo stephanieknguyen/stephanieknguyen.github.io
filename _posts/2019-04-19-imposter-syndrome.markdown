@@ -4,8 +4,8 @@ title:  "Imposter Syndrome"
 date:   2019-04-19 16:32:45
 categories: imposter
 tags: featured
-image: ![alt text](https://flic.kr/p/2fvCtWm "Photo by Jason Hogan on Unsplash")
-image 2: ![alt text](https://flic.kr/p/RPTqUv "Photo by Jason Hogan on Unsplash")
+image: /assets/article_images/2019-04-19-impostor-syndrome/jason-hogan.jpg
+image 2: /assets/article_images/2019-04-19-impostor-syndrome/jason-hogan-mobile.jpg
 ---
 
 Imposter syndrome is not a novel concept to most of us that have gone through medical school. I know that many of my classmates have experienced it at one time or another and I experience it at least on a weekly basis. It’s defined as a psychological state of inadequacy despite proven competence and achievement. People that have this syndrome are fearful that they will be “outed” as a fraud. There are several characteristics of people that may be affected by this. 
