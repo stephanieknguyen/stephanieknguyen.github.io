@@ -3,7 +3,7 @@ layout: post
 title:  "Mentorship is Priceless"
 date:   2019-04-12 18:08:45
 categories: mentorship, female, feminism, wellness, achievement
-tags: featured
+tags: regular
 image: /assets/article_images/2019-04-12-mentorship-is-priceless/joshua-ness-225844-unsplash.jpg
 image 2: /assets/article_images/2019-04-12-mentorship-is-priceless/joshua-ness-225844-unsplash-mobile.jpg
 ---

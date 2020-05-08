@@ -3,7 +3,7 @@ layout: post
 title:  "Impostor Syndrome"
 date:   2019-04-19 16:32:45
 categories: imposter
-tags: featured
+tags: regular
 image: /assets/article_images/2019-04-19-impostor-syndrome/jason-hogan.jpg
 image 2: /assets/article_images/2019-04-19-impostor-syndrome/jason-hogan-mobile.jpg
 ---
