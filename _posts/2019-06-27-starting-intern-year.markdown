@@ -3,7 +3,7 @@ layout: post
 title:  "Starting Intern Year"
 date:   2019-06-27 16:32:45
 categories: intern
-tags: featured
+tags: regular
 image: /assets/article_images/2019-06-27-starting-intern-year/luis-melendez.jpg
 image 2: /assets/article_images/2019-06-27-starting-intern-year/luis-melendez_mobile.jpg
 ---
