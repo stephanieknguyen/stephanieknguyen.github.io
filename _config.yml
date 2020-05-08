@@ -4,7 +4,7 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Stephanie Nguyen, MD"
+title: "Stephanie Sobrepera, MD"
 description: > # this means to ignore newlines until "email:"
    A blog about life as a young physician
 
@@ -16,8 +16,8 @@ float_logo: true # true, false (default)
 # blog cover
 cover: "/assets/images/juja-han-unsplash.jpg"
 
-name: 'Stephanie Nguyen'
-author: 'Stephanie Nguyen'
+name: 'Stephanie Sobrepera'
+author: 'Stephanie Sobrepera'
 author_image: "/assets/images/author.jpg"
 
 paginate:	5
@@ -25,7 +25,7 @@ paginate:	5
 url: "http://stephmd.com" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
-twitter_handle: '@stephnguyenMD'
+twitter_handle: '@stephsobrepera'
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
@@ -35,7 +35,7 @@ twitter_handle: '@stephnguyenMD'
 # social icons and sharing options
 social:
   - icon:	twitter
-    url:	https://twitter.com/stephnguyenMD
+    url:	https://twitter.com/stephsobrepera
     desc: Follow me on twitter
     share_url: http://twitter.com/share
     share_title: ?text=
@@ -49,7 +49,7 @@ social:
     share_link: "&amp;u="
 
   - icon:	instagram
-    url:	https://www.instagram.com/stephnguyen_irad/
+    url:	https://www.instagram.com/stephsobrepera/
     desc:	Follow me on insta
     share_url:
     share_title:
